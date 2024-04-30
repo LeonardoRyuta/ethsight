@@ -1,4 +1,4 @@
-## ETHSight
+## ETHSight (Unfinished)
 
 Decentralized survey app.
 
